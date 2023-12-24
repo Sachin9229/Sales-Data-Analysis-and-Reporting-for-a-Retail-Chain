@@ -1,3 +1,3 @@
 # Sales-Data-Analysis-and-Reporting-for-a-Retail-Chain
 
-Sachin
+In this project, I am tasked with conducting an in-depth analysis of sales data for a retail chain, leveraging Python, SQL, and Excel. My approach is divided into three distinct phases. Firstly, I will collect data from Kaggle and organize it within a SQL database, ensuring a robust foundation for analysis. The second phase involves meticulous data cleaning and preparation, where I'll utilize SQL queries and Python's pandas library to refine and enhance the dataset. The final phase is centered around detailed data analysis. Here, I will employ a range of tools, including SQL, pandas, matplotlib, and seaborn, to delve deep into the data, extracting crucial trends and patterns. This project is designed to provide comprehensive and insightful analytics, aiding in informed decision-making for the retail chain.
